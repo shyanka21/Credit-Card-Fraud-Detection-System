@@ -12,5 +12,5 @@ The proposed architecture is  designed to detect credit card fraud in online pay
 The Credit Card Fraud Detection Problem includes modeling past credit card transactions with the knowledge of the ones that turned out to be fraud. This model is then used to identify whether a new transaction is fraudulent or not. Our aim here is to detect 100% of the fraudulent transactions while minimizing the incorrect fraud classifications.
 
 ## METHODOLOGY USED
-1. K-MEANS CLUSTERING
-2. LOGISTIC REGRESSION
+1. K-Nearest Neighbor 
+2. Logistic Regression
